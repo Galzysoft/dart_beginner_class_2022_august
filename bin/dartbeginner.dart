@@ -32,7 +32,7 @@ void main() {
     print("maggi");
   }
   else  if (b==12) {
-    print("ogiri");
+    print("isi azu");
   }
   else {
     print("akamu");
